@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1200,
       "createdAt": "2022-08-26T12:42:33.247Z"
+    },
+    {
+      "description": "Desenvolvimento de Mobile",
+      "price": 15000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-26T14:04:54.090Z",
+      "id": 4
+    },
+    {
+      "description": "Cerveja",
+      "price": 40,
+      "category": "Bebida",
+      "type": "outcome",
+      "createdAt": "2022-08-26T14:17:38.136Z",
+      "id": 5
     }
   ]
 }
